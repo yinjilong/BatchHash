@@ -74,4 +74,4 @@ if __name__=='__main__':
         print(e)
         sys.exit(2)
 
-    exit(0)
+    sys.exit(0)
